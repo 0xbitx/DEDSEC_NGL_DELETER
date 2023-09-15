@@ -1,3 +1,5 @@
+> **Warning**
+> This tool cannot be used for now.
 
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC_NGL_DELETER/blob/main/banner.png", width="500", height="500">
