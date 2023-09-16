@@ -1,5 +1,3 @@
-> **Warning**
-> This tool cannot be used for now.
 
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC_NGL_DELETER/blob/main/banner.png", width="500", height="500">
@@ -10,7 +8,7 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_NGL_DELETER.git
 * cd DEDSEC_NGL_DELETER
-* pip3 install pystyle
+* pip3 install pystyle pycryptodome
 * python3 dedsec_ngl_deleter.py
 
 ### TESTED ON FOLLOWING
