@@ -9,7 +9,7 @@
 * git clone https://github.com/0xbitx/DEDSEC_NGL_DELETER.git
 * cd DEDSEC_NGL_DELETER
 * pip3 install pystyle pycryptodome
-* python3 dedsec_ngl_deleter.py
+* ./dedsec_ngl_deleter
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
