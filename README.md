@@ -8,7 +8,7 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_NGL_DELETER.git
 * cd DEDSEC_NGL_DELETER
-* pip3 install pystyle pycryptodome
+* pip3 install pystyle
 * ./dedsec_ngl_deleter
 
 ### TESTED ON FOLLOWING
