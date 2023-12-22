@@ -16,11 +16,6 @@
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux
-
-### LANGUAGE 
-* Python
-
 
 ## Support
 
